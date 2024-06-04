@@ -19,11 +19,11 @@
 /* ------------responsive-design--------------- */
 @font-face {
   font-family: logo;
-  src: url(../assets/Caveat-VariableFont_wght.ttf);
+  src: url(./assets/Caveat-VariableFont_wght.ttf);
 }
 @font-face {
   font-family: mainfont;
-  src: url(../assets/RedHatDisplay-VariableFont_wght.ttf);
+  src: url(./assets/RedHatDisplay-VariableFont_wght.ttf);
 }
 body{
     overflow-x: hidden;
